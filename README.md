@@ -69,9 +69,11 @@
 
 # 👨‍💻 Sobre mim
 
-Tenho interesse nas áreas de cibersegurança, redes de computadores e suporte técnico, buscando constantemente aprender mais sobre infraestrutura, segurança e resolução de problemas.
+Sou estudante e entusiasta das áreas de Cibersegurança, Redes de Computadores e Desenvolvimento de Software, sempre buscando evoluir meus conhecimentos através de estudos práticos, laboratórios e projetos reais.
 
-Além disso, também desenvolvo aplicações web, mobile e automações, criando soluções práticas voltadas para produtividade e uso comercial.
+Tenho experiência com criação de automações, desenvolvimento de aplicações web e mobile, além de participar ocasionalmente de plataformas de Bug Bounty e desafios CTF, focando em segurança ofensiva, análise de vulnerabilidades e aprendizado contínuo.
+
+Também desenvolvo sistemas sob demanda e projetos pessoais voltados para produtividade, automação e soluções comerciais, utilizando tecnologias modernas tanto no backend quanto no frontend.
 
 ---
 
