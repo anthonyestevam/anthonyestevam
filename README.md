@@ -1,67 +1,100 @@
-# 👋 Olá, eu sou Anthony Weslley
+# 👋 Olá, eu sou Anthony Weslley Estevam
 
-💻 Estudante de Sistemas Operacionais e Desenvolvimento Mobile  
-🚀 Desenvolvedor focado em automação, Flutter e Python  
-📚 Atualmente aprendendo mais sobre backend, arquitetura de software e automações comerciais  
-⚡ Experiência com manutenção, diagnóstico de problemas e desenvolvimento de soluções internas
-
----
-
-## 🚀 Tecnologias que utilizo
-
-### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🗄️ Banco de Dados
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🐧 Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+💻 Estudante e entusiasta de Cibersegurança, Redes e Suporte Técnico  
+🚀 Também desenvolvo aplicações e automações utilizando tecnologias Web, Mobile e Python  
+📚 Sempre buscando evoluir em infraestrutura, segurança e desenvolvimento de software
 
 ---
 
-# 📌 Projetos em Destaque
+# 🚀 Tecnologias
 
-## 💰 Cobrador - Automação de Cobrança WhatsApp
-Sistema desenvolvido em Python para automatizar cobranças via WhatsApp Web.
+<div align="left">
 
-### Funcionalidades:
-- Envio automático de mensagens
-- Integração com planilhas
-- Automação comercial
-- Controle de cobranças
-- Geração de links de pagamento
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+<img width="12" />
 
-🔗 Repositório: [LINK_DO_REPOSITORIO]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt=Git/>
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Active Directory" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/wireshark" height="40" alt="Wireshark" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/fortinet" height="40" alt="Firewall" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/burpsuite" height="40" alt="Burp Suite" />
+<img width="12" />
+
+<img src="https://nmap.org/images/sitelogo.png" height="40" alt="Nmap" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/metasploit" height="40" alt="Metasploit" />
+
+</div>
 
 ---
 
-## 📱 Aplicativo Flutter
-Aplicativo mobile desenvolvido em Flutter com foco em organização e experiência do usuário.
+# 👨‍💻 Sobre mim
 
-### Tecnologias utilizadas:
-- Flutter
-- Dart
-- SQLite
+Tenho interesse nas áreas de cibersegurança, redes de computadores e suporte técnico, buscando constantemente aprender mais sobre infraestrutura, segurança e resolução de problemas.
 
-🔗 Repositório: [LINK_DO_REPOSITORIO]
+Além disso, também desenvolvo aplicações web, mobile e automações, criando soluções práticas voltadas para produtividade e uso comercial.
 
 ---
 
-## 📊 Estatísticas GitHub
+# 📌 Repositórios em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+## 💰 ChargeFlow: Sistema de Cobrança Automatizada
+Automação desenvolvida em Python para envio de cobranças via WhatsApp Web, integrada com planilhas e links de pagamento.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+🔗 [Acessar repositório](https://github.com/anthonyestevam/chargeflow)
 
 ---
 
-## 📫 Contato
+## 📱 ADTermo: Aplicativo Mobile em Flutter
+Aplicativo desenvolvido em Flutter para fins educacionais sobre controle de termolábeis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN)
+🔗 [Acessar repositório](https://github.com/anthonyestevam/ADTermo)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+---
+
+# 📫 Contato
+<div align="left">
+  <a href="https://linkedin.com/in/anthonyestevam" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:twes881@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
